@@ -1,7 +1,7 @@
 #  Digital Library Operations System
 
 ##  Description
-This is a **full-stack Book Management System** that allows users to manage book records through a modern and interactive interface. The application provides complete **CRUD operations** with a React-based frontend and a Spring Boot REST API backend.
+This is a **full-stack Digital Library Operations System** that allows users to manage book records through a modern and interactive interface. The application provides complete **CRUD operations** with a React-based frontend and a Spring Boot REST API backend.
 
 ---
 
